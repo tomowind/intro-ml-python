@@ -1,0 +1,15 @@
+dependencies:
+- graphviz
+- jupyter
+- matplotlib
+- nltk
+- numpy
+- pandas
+- pillow
+- python
+- python-graphviz
+- scikit-learn
+- scipy
+- spacy
+- pip:
+  - mglearn
