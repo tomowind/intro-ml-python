@@ -8,8 +8,10 @@ dependencies:
 - pillow
 - python
 - python-graphviz
+- seaborn
 - scikit-learn
 - scipy
 - spacy
+- statsmodels
 - pip:
   - mglearn
