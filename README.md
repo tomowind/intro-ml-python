@@ -6,4 +6,5 @@
     - [Datasets](notebooks/02-datasets.ipynb): make_forge, make_wave, breast_cancer, boston, make_moons, make_circles, citi_bike 데이터셋
     - [KNN](notebooks/02-knn.ipynb): KNN classification, regression 을 서로 다른 k 에 대해서 돌립니다.
     - [Linear Models](notebooks/02-linear-models.ipynb): LinearRegression, Ridge, Lasso, LogisticRegression, LinearSVC를 다룹니다.
+    - [Naive Bayes](notebooks/02-naive-bayes.ipynb): 책에 내용이 부족하여 나중에 더 공부하기로 했습니다. 
     - TODO: compare supervised learning algorithms in a notebook
