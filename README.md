@@ -8,4 +8,5 @@
     - [Linear Models](notebooks/02-linear-models.ipynb): LinearRegression, Ridge, Lasso, LogisticRegression, LinearSVC를 다룹니다.
     - [Naive Bayes](notebooks/02-naive-bayes.ipynb): 책에 내용이 부족하여 나중에 더 공부하기로 했습니다. 
     - [Decision Trees](notebooks/02-decision-tree.ipynb): DecisionTree, RandomForest, GradientBoosting.
+    - [SVM](notebooks/02-svm.ipynb): 
     - TODO: compare supervised learning algorithms in a notebook
