@@ -10,4 +10,4 @@
     - [Decision Trees](notebooks/02-decision-tree.ipynb): DecisionTree, RandomForest, GradientBoosting.
     - [SVM](notebooks/02-svm.ipynb): RBF kernel classification
     - [Neural Networks](notebooks/02-neural-networks.ipynb): Multi-layer perceptron with solver, optimizer tunings
-    - TODO: compare supervised learning algorithms in a notebook
+    - [Uncertainty Estimates](notebooks/02-uncertainty-estimates.ipynb): Decision Function, Prediction Probabilities
