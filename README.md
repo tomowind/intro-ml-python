@@ -9,4 +9,5 @@
     - [Naive Bayes](notebooks/02-naive-bayes.ipynb): 책에 내용이 부족하여 나중에 더 공부하기로 했습니다. 
     - [Decision Trees](notebooks/02-decision-tree.ipynb): DecisionTree, RandomForest, GradientBoosting.
     - [SVM](notebooks/02-svm.ipynb): RBF kernel classification
+    - [Neural Networks](notebooks/02-neural-networks.ipynb): Multi-layer perceptron with solver, optimizer tunings
     - TODO: compare supervised learning algorithms in a notebook
