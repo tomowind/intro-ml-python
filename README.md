@@ -14,5 +14,5 @@
 3. Unsupervised Learning
     - [Datasets](notebooks/03-datasets.ipynb): lfw_faces, digits, mnist, make_signal 데이터셋
     - [Preprocessing and Scaling](notebooks/03-preprocessing-and-scaling.ipynb): MinMaxScaler, StandardScaler
-    - [Dimensionality Reduction, Feature Extraction, Manifold Learning](notebooks/03-dimensionality-reduction.ipynb):
+    - [Dimensionality Reduction, Feature Extraction, Manifold Learning](notebooks/03-dimensionality-reduction.ipynb): PCA, NMF, t-SNE
     - [Clustering](notebooks/03-clustering.ipynb):
