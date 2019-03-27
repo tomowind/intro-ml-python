@@ -16,3 +16,4 @@
     - [Preprocessing and Scaling](notebooks/03-preprocessing-and-scaling.ipynb): MinMaxScaler, StandardScaler
     - [Dimensionality Reduction, Feature Extraction, Manifold Learning](notebooks/03-dimensionality-reduction.ipynb): PCA, NMF, t-SNE
     - [Clustering](notebooks/03-clustering.ipynb):
+6. [Algorithm Chains and Pipelines](notebooks/06-algorithm-chains-and-pipelines.ipynb): pipeline 사용으로 코드를 간결하고 정확하게 사용하는 방법을 알아봅니다
