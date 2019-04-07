@@ -17,6 +17,6 @@
     - [Dimensionality Reduction, Feature Extraction, Manifold Learning](notebooks/03-dimensionality-reduction.ipynb): PCA, NMF, t-SNE
     - [Clustering](notebooks/03-clustering.ipynb): k-Means, Agglomerative, DBSCAN
 4. [Representing Data and Engineering Features](notebooks/04-representing-data-and-engineering-features.ipynb): Categorical Variables (OneHotEncoding), Binning, Polynomials, Feature Selection
-5. [Model Evaluation and Improvement](notebooks/05-model-evaluation-and-improvement.ipynb): 
+5. [Model Evaluation and Improvement](notebooks/05-model-evaluation-and-improvement.ipynb): cross validation, grid search, evaluation metrics
 6. [Algorithm Chains and Pipelines](notebooks/06-algorithm-chains-and-pipelines.ipynb): pipeline 사용으로 코드를 간결하고 정확하게 사용하는 방법을 알아봅니다
 7. [Working with Text Data](notebooks/07-working-with-text-data.ipynb): 
